@@ -1,4 +1,4 @@
-# V4B Q&A
+# V4B Q&A :busts_in_silhouette:
 **BUG问题反馈请到 :link: [Issues](https://github.com/Simon-Leung/V4B/issues)提交。**
 
 Q: 终端离线了怎么处理？  
