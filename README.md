@@ -1,5 +1,7 @@
 # V4B Q&A
+=====
 BUG问题反馈请到[Issues](https://github.com/Simon-Leung/V4B/issues)提交。
+=====
 
 Q: 终端离线了怎么处理？  
 A: 查看是否整机跳闸；对于V1.12版本，请提供SIM卡的ICCID给SIM卡供应商，查看SIM卡状态，若机卡分离，提供SIM卡供应商ICCID及要求绑定到新的IMEI，请交绑定；对于V1.11及以往版本，查看是否ID变为1，按“修改ID流程说明.pdf”处理。
