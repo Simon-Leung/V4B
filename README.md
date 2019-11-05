@@ -1,5 +1,4 @@
 # V4B Q&A
-=====
 BUG问题反馈请到[Issues](https://github.com/Simon-Leung/V4B/issues)提交。
 =====
 
